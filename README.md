@@ -1,4 +1,4 @@
-# Code
+# Eunimart Code
 n=int(input())
 s=input()
 r=set()
